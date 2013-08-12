@@ -1,4 +1,4 @@
 Asteroids.js
 ====
 
-Simple asteroids game. Experimenting with trigonometric functions to implement motion.
+Simple in-browser asteroids game. Experimenting with trigonometric functions to implement motion.
